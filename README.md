@@ -1,0 +1,2 @@
+# papiflix-hotlinking
+hotlinking
